@@ -1,4 +1,4 @@
 // function 
-// boolean
+// bool
 int func ()
 
