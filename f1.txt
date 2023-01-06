@@ -1,2 +1,4 @@
-int func ();
+// function 
+// bool
+int func ()
 
